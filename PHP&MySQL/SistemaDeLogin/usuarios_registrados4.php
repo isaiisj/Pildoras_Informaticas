@@ -18,7 +18,7 @@
     <p>Esto es info para usuarios registrados</p>
 
     <?php 
-        echo "Hola".$_SESSION["usuario"]."<br>";
+        echo "Usuario: ".$_SESSION["usuario"]."<br>";
     ?>
   </body>
 </html>
