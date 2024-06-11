@@ -6,7 +6,17 @@
   </head>
   <body>
     <?php 
-      echo 4_COOKIE["prueba"];
+
+      if(isset($_COOKIE["prueba"])){
+        
+        echo 4_COOKIE["prueba"];
+        
+      }else{
+        
+        echo "La cookie no se ha creado";
+        
+      }
+
     ?>
   </body>
 </html>
