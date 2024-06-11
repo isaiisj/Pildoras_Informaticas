@@ -20,5 +20,9 @@
     <?php 
         echo "Usuario: ".$_SESSION["usuario"]."<br>";
     ?>
+
+    <p><a href="cierre.php">Cierre Sesión</a></p>
+
+    <a href="usuarios_registrados1.php">Volver</a>
   </body>
 </html>
