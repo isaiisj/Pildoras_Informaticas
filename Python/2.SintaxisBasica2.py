@@ -1,3 +1,4 @@
+#Video 4 del curso
 nombre = 5
 type(nombre)
 nombre = "juan"
