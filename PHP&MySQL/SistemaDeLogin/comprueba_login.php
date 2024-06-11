@@ -27,6 +27,11 @@
       $numero_registro=$resultado->rowCount();
 
       if($numero_registro!=0){
+        //echo "<h2>Adelante</h2>
+
+        session_start();
+
+        $_SESSION["usuario"]=$_POST["login"];
         
         header("Location: usuarios_registrados1.php");
         
