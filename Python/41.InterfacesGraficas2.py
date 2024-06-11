@@ -1,3 +1,4 @@
+#Video 43 del curso
 form tkinter import *
 raiz = Tk()
 raiz.title("Ventanade pruebas")
