@@ -27,13 +27,19 @@
       $numero_registro=$resultado->rowCount();
 
       if($numero_registro!=0){
-        echo "<h2> Adelante </h2>";
+        
+        header("Location: usuarios_registrados1.php");
+        
       }else{
+        
         header("location.login.php");
+        
       }
         
     }catch(Exception $e){
+      
       die("Error: ". $e ->getMessage());
+      
     }
     ?>
   </body>
