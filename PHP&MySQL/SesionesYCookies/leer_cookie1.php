@@ -9,7 +9,7 @@
 
       if(isset($_COOKIE["prueba"])){
         
-        echo 4_COOKIE["prueba"];
+        echo $_COOKIE["prueba"];
         
       }else{
         
