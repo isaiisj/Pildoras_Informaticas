@@ -4,21 +4,6 @@
 	<meta charset="UTF-8">
 	<title>Document</title>
 
-	<style>
-	
-	table {
-		width: 300px;
-		margin: auto;
-		background-color: #ffc;
-		border: 2px solid #f00;
-		padding: 5px;
-	}
-
-	td {
-		text-align: center;
-	}
-    
-	</style>
 
   
 </head>
