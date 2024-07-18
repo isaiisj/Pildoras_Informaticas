@@ -18,4 +18,4 @@ raiz.mainloop()
 '''
  Todo lo que se aplica al frame
  se puede aplicar a la raiz 
- '''
+'''
