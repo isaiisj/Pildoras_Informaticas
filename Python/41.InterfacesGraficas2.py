@@ -15,5 +15,7 @@ miFrame.config(relief="groove")
 miFrame.config(cursor="pirate")
 raiz.mainloop()
 
-'''Todo lo que se aplica al frame
- se puede aplicar a la raiz '''
+'''
+Todo lo que se aplica al frame
+ se puede aplicar a la raiz 
+ '''
