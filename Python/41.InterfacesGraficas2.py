@@ -16,6 +16,6 @@ miFrame.config(cursor="pirate")
 raiz.mainloop()
 
 '''
-Todo lo que se aplica al frame
+ Todo lo que se aplica al frame
  se puede aplicar a la raiz 
  '''
