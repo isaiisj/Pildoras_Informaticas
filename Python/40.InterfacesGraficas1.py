@@ -8,6 +8,7 @@ raiz.geometry("650x350")
 raiz.config(bg="blue")
 raiz.mainloop() #mainloop siempre al final
 
-''' Si cambiamos la extension .py
+''' 
+Si cambiamos la extension .py
 por .pyw al abrir, se abrira directamente la interfaz
 '''
