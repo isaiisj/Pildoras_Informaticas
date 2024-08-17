@@ -4,4 +4,5 @@
   <li>Sistema de Login 2 (con $_SESSION)</li>
   <li>Cookies</li>
   <li>Encriptación de Password</li>
+  <li>Subir imágenes al servidor</li>
 </ol>
