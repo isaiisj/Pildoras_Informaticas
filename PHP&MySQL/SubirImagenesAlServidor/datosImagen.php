@@ -17,7 +17,7 @@
 		
 	// Ruta de la carpeta destino en servidor
 
-	$carpeta_destino=$_SERVER['DOCUMENT_ROOT'] . '/pildoras/uploads/';
+	$carpeta_destino=$_SERVER['DOCUMENT_ROOT'] . '/uploads/';
 
 	//Movemos la imagen del directorio temporal al directorio escogido
 
