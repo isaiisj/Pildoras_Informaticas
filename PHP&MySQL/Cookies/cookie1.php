@@ -6,7 +6,7 @@
   </head>
   <body>
     <?php 
-      setcookie("prueba", "Esta es la información de nuestra primera cookie", time()+30, "localhost/Zona de actuacion/cookie_2");
+      setcookie("prueba", "Esta es la información de nuestra primera cookie", time()+30, "/zona_contenidos/cookie_2");
     ?>
   </body>
 </html>
