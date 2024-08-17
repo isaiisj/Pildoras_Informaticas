@@ -41,7 +41,7 @@
 
 <div>
 	
-	<img src="/pildoras/uploads/<?php echo $ruta_img;?>" alt="Imagen del primer artículo" width="25%">
+	<img src="/pildoras/uploads/<?= $ruta_img;?>" alt="Imagen del primer artículo" width="25%">
 </div>
 </body>
 </html>
