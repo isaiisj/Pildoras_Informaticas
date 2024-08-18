@@ -1,3 +1,4 @@
+<!-- Video 3 del curso -->
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -10,8 +11,8 @@
 <?php
 	
 	print "Bienvenidos al curso de PHP <br>";
-  print "Hola alumnos <br>";
-  print "Hasta la proxima";
+  	print "Hola alumnos <br>";
+  	print "Hasta la proxima";
 ?>
 
 
